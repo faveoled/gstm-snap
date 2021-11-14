@@ -17,7 +17,7 @@ parts:
     plugin: nil
     stage-packages:
       - gstm
-      - libffi
+      - libffi7
 
   desktop-gnome-platform:
     source: https://github.com/ubuntu/snapcraft-desktop-helpers.git
